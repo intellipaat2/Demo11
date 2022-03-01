@@ -1,7 +1,8 @@
 
 feature1
 this is first commi
-something 22
+something 2
+feature4
 
 feature2
 

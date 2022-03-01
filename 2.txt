@@ -1,3 +1,9 @@
 initial commit
 
+<<<<<<< HEAD
 feat3
+=======
+
+feat4
+
+>>>>>>> feature4
