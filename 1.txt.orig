@@ -1,0 +1,11 @@
+
+feature1
+this is first commi
+<<<<<<< HEAD
+something 22
+=======
+something
+>>>>>>> feature4
+
+feature2
+
